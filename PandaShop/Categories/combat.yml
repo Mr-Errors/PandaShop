@@ -1,0 +1,198 @@
+Shops:
+  combat:
+    '1':
+      material: Golden Helmet
+      purchase: 350
+      sell: 50
+    '2':
+      material: Golden Chestplate
+      purchase: 560
+      sell: 80
+    '3':
+      material: Golden Leggings
+      purchase: 490
+      sell: 70
+    '4':
+      material: Golden Boots
+      purchase: 280
+      sell: 40
+    '5':
+      material: Iron Helmet
+      purchase: 320
+      sell: 45
+    '6':
+      material: Iron Chestplate
+      purchase: 520
+      sell: 65
+    '7':
+      material: Iron Leggings
+      purchase: 255
+      sell: 60
+    '8':
+      material: Iron Boots
+      purchase: 265
+      sell: 25
+    '9':
+      material: Diamond Helmet
+      purchase: 1900
+      sell: 210
+    '10':
+      material: Diamond Chestplate
+      purchase: 3050
+      sell: 330
+    '11':
+      material: Diamond Leggings
+      purchase: 2700
+      sell: 290
+    '12':
+      material: Diamond Boots
+      purchase: 1550
+      sell: 170
+    '13':
+      material: Netherite Helmet
+      purchase: 3300
+      sell: 500
+    '14':
+      material: Netherite Chestplate
+      purchase: 4450
+      sell: 680
+    '15':
+      material: Netherite Leggings
+      purchase: 4000
+      sell: 630
+    '16':
+      material: Netherite Boots
+      purchase: 2800
+      sell: 510
+    '17':
+      material: Golden Pickaxe
+      purchase: 215
+      sell: 35
+    '18':
+      material: Iron Pickaxe
+      purchase: 210
+      sell: 25
+    '19':
+      material: Diamond Pickaxe
+      purchase: 1150
+      sell: 130
+    '20':
+      material: Netherite Pickaxe
+      purchase: 2450
+      sell: 475
+    '21':
+      material: Golden Axe
+      purchase: 215
+      sell: 35
+    '22':
+      material: Golden Sword
+      purchase: 200
+      sell: 20
+    '23':
+      material: Iron Axe
+      purchase: 210
+      sell: 25
+    '24':
+      material: Diamond Axe
+      purchase: 1150
+      sell: 130
+    '25':
+      material: Diamond Sword
+      purchase: 750
+      sell: 90
+    '26':
+      material: Netherite Axe
+      purchase: 2450
+      sell: 475
+    '27':
+      material: Golden Shovel
+      purchase: 75
+      sell: 12
+    '28':
+      material: Iron Sword
+      purchase: 180
+      sell: 20
+    '29':
+      material: Iron Shovel
+      purchase: 70
+      sell: 25
+    '30':
+      material: Diamond Shovel
+      purchase: 400
+      sell: 45
+    '31':
+      material: Netherite Sword
+      purchase: 2200
+      sell: 430
+    '32':
+      material: Netherite Shovel
+      purchase: 830
+      sell: 160
+    '33':
+      material: Golden Hoe
+      purchase: 160
+      sell: 25
+    '34':
+      material: Iron Hoe
+      purchase: 145
+      sell: 50
+    '35':
+      material: Diamond Hoe
+      purchase: 825
+      sell: 95
+    '36':
+      material: Netherite Hoe
+      purchase: 1650
+      sell: 10
+    '37':
+      material: Fishing Rod
+      purchase: 180
+      sell: 12
+    '38':
+      material: Carrot on a Stick
+      purchase: 250
+      sell: 25
+    '39':
+      material: Warped Fungus on a Stick
+      purchase: 500
+      sell: 130
+    '40':
+      material: Bow
+      purchase: 120
+      sell: 20
+    '41':
+      material: Arrow
+      purchase: 180
+      sell: 45
+    '42':
+      material: Spectral Arrow
+      purchase: 265
+      sell: 65
+    '43':
+      material: Crossbow
+      purchase: 255
+      sell: 25
+    '44':
+      material: Trident
+      purchase: 18000
+      sell: 3500
+    '45':
+      material: Shield
+      purchase: 180
+      sell: 18
+    '46':
+      material: Flint and Steel
+      purchase: 100
+      sell: 15
+    '47':
+      material: Name Tag
+      purchase: 1800
+      sell: 450
+    '48':
+      material: Lead
+      purchase: 85
+      sell: 32
+    '49':
+      material: Shears
+      purchase: 150
+      sell: 16

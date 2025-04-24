@@ -1,0 +1,86 @@
+Shops:
+  food:
+    '1':
+      material: APPLE
+      purchase: 10
+      sell: 2.5
+    '2':
+      material: BREAD
+      purchase: 15.75
+      sell: 3.94
+    '3':
+      material: CAKE
+      purchase: 79.32
+      sell: 19.83
+    '4':
+      material: COOKED_SALMON
+      purchase: 6.3
+      sell: 1.58
+    '5':
+      material: COOKIE
+      purchase: 2.1
+      sell: 0.53
+    '6':
+      material: GLISTERING_MELON_SLICE
+      purchase: 8
+      sell: 2
+    '7':
+      material: GLOW_BERRIES
+      purchase: 1
+      sell: 0.25
+    '8':
+      material: GOLDEN_CARROT
+      purchase: 12.2
+      sell: 3.05
+    '9':
+      material: HONEY_BOTTLE
+      purchase: 7.94
+      sell: 1.99
+    '10':
+      material: BAKED_POTATO
+      purchase: 5.25
+      sell: 1.32
+    '11':
+      material: COOKED_BEEF
+      purchase: 6.3
+      sell: 1.58
+    '12':
+      material: COOKED_CHICKEN
+      purchase: 6.3
+      sell: 1.58
+    '13':
+      material: COOKED_MUTTON
+      purchase: 6.3
+      sell: 1.58
+    '14':
+      material: COOKED_PORKCHOP
+      purchase: 6.3
+      sell: 1.58
+    '15':
+      material: COOKED_RABBIT
+      purchase: 6.3
+      sell: 1.58
+    '16':
+      material: BEEF
+      purchase: 6
+      sell: 1.5
+    '17':
+      material: CHICKEN
+      purchase: 6
+      sell: 1.5
+    '18':
+      material: MUTTON
+      purchase: 6
+      sell: 1.5
+    '19':
+      material: PORKCHOP
+      purchase: 6
+      sell: 1.5
+    '20':
+      material: RABBIT
+      purchase: 6
+      sell: 1.5
+    '21':
+      material: BEETROOT_SOUP
+      purchase: 38.72
+      sell: 9.68

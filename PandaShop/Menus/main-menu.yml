@@ -1,0 +1,222 @@
+Main-Menu:
+    Title: "&8Shop | "
+    Exit-Slot: 49
+    Rows: 6
+    Filler:
+        1:
+            material: Black Stained Glass Pane
+            slots:
+            - 'numbers between 0 and 8'
+            - 'numbers between 45 and 53'
+        2:
+            material: Light Blue Stained Glass Pane
+            slots:
+            - 9
+            - 10
+            - 18
+            - 27
+            - 36
+            - 16
+            - 17
+            - 26
+            - 35
+            - 37
+            - 43
+            - 44
+    # Categories is just the items displayed to show all the categories and will also allow us to access ymals needs for each shop category
+    # IMPORTANT NOTE THE CATEGORY NAME AND FILE NAME ARE CASE SENSITIVE
+    Categories:
+        blocks:
+            enabled: true
+            file: "blocks"
+            material: player skull
+            slot: 13
+            name: "&8● <#5BF027>&lBUILDING BLOCKS &8| &f{shop_size} <#5BF027>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the building blocks shop'
+            - '  <#EBEBEB>to buy the building blocks avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGJmNmZiNDNjOWU0NWFjZTI0ZTc3YjY0YjYwNzVlYTMyZjQyMDYwM2IxNWFhYWQ3NTk3YWY3MDQ5YjkzNTM0NiJ9fX0
+
+        coloured:
+            enabled: true
+            file: "coloured"
+            material: player skull
+            slot: 20
+            name: "&8● <#E8E533>&lCOLORED BLOCKS &8| &f{shop_size} <#E8E533>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the colored blocks shop'
+            - '  <#EBEBEB>to buy the colored blocks avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjFkZTM5MGVmODZjYjNlYmZmYjgwZjBlOTY0NTU4NmJmZTA1MWYxMzY5YTMwN2NmYmE0ZjlmYWFiNzMwYjkwZiJ9fX0=
+
+        miscellaneous:
+            enabled: true
+            file: "miscellaneous"
+            material: player skull
+            slot: 21
+            name: "&8● <#5f36e4>&lMISCELLANEOUS &8| &f{shop_size} <#5f36e4>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the miscellaneous shop'
+            - '  <#EBEBEB>to buy the miscellaneous avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjMyYzE0NzJhN2JjNjk3NWRlZDdjMGM1MTY5Njk1OWI4OWFmNjFiNzVhZTk1NGNjNDAzNmJjMzg0YjNiODMwMSJ9fX0=
+
+        spawner:
+            enabled: true
+            file: "spawner"
+            material: player skull
+            slot: 22
+            name: "&8● <#40748e>&lSPAWNERS &8| &f{shop_size} <#40748e>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the spawner shop'
+            - '  <#EBEBEB>to buy the spawner avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRmOGVmNTE0ZWQ2YmU3OWQzZThlZmJlMThlN2NiMzkxMjMyYmFkNDg4ZTNiMTk1NTJiN2ZmNGFiZTFmZjQ1ZCJ9fX0=
+
+        redstone:
+            enabled: true
+            file: "redstone"
+            material: player skull
+            slot: 23
+            name: "&8● <#FF2626>&lREDSTONE &8| &f{shop_size} <#FF2626>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the redstone shop'
+            - '  <#EBEBEB>to buy the redstone avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGY4NGE0M2E0NThkYWI4ZDBmZTA1MDYyZTZiNDJlZGU3ZjI1MDRhNjQ5YzZjM2FiNjZjODY2NmUwYjgwNjlkNCJ9fX0=
+
+        minerals:
+            enabled: true
+            file: "minerals"
+            material: player skull
+            slot: 24
+            name: "&8● <#27D2F0>&lMINERALS &8| &f{shop_size} <#27D2F0>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the minerals shop'
+            - '  <#EBEBEB>to buy the minerals avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2MxMWI0ODM3ZTc5M2RjYzA4OTU2YTY0OTMwZjc1ZWZhZWI1OTE0YTg3ZTFkYjg4OTRmNWRmNjAzMzBkMzE0NiJ9fX0=
+
+        farming:
+            enabled: true
+            file: "farming"
+            material: player skull
+            slot: 29
+            name: "&8● <#1DE682>&lFARMING &8| &f{shop_size} <#1DE682>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the farming shop'
+            - '  <#EBEBEB>to buy the farming avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTUwNmM4MjQ5YWZmOTc0YmQ1NDg1MTVmNjVlZjk4MWM4MDRhNTU5M2YxMmMyNDUxYWFiZTg2NzMxZTBjMWIxYiJ9fX0=
+
+        food:
+            enabled: true
+            file: "food"
+            material: player skull
+            slot: 30
+            name: "&8● <#EB3BFF>&lFOOD &8| &f{shop_size} <#EB3BFF>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the food shop'
+            - '  <#EBEBEB>to buy the food avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGZhMWYxZmFjN2U5YjBhNjU3ZGQ4YzA0Yjk0NDc5YTk4YzM3M2UyZjQ2NDkxNmJiZTcwN2VmOTAwNDFkYzM5OSJ9fX0=
+            
+        decorations:
+            enabled: true
+            file: "decorations"
+            material: player skull
+            slot: 31
+            name: "&8● <#1D94E6>&lDECORATIONS &8| &f{shop_size} <#1D94E6>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the decorations shop'
+            - '  <#EBEBEB>to buy the decorations avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGVmZjI5ZWE0NzFiMGRiZGIwZjhjZmZlNTIzZmZmZjZhYjAyYTVlZDI5OTBhYmFmMGUyYzYwNGQyMjdmMTA4NCJ9fX0=
+
+        combat:
+            enabled: true
+            file: "combat"
+            material: player skull
+            slot: 32
+            name: "&8● &6&lCOMBAT &8| &f{shop_size} &6Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the combat shop'
+            - '  <#EBEBEB>to buy the combat avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmNkYzBmZWI3MDAxZTJjMTBmZDUwNjZlNTAxYjg3ZTNkNjQ3OTMwOTJiODVhNTBjODU2ZDk2MmY4YmU5MmM3OCJ9fX0=
+
+        mobdrops:
+            enabled: true
+            file: "mobdrops"
+            material: player skull
+            slot: 33
+            name: "&8● <#EB3BFF>&lMOB DROPS &8| &f{shop_size} <#EB3BFF>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the mob drops shop'
+            - '  <#EBEBEB>to buy the moob drops avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFkZDdlZTdkYzdmYmNiNWMxYWVlN2EyNTc5MTdmMDM0ZWViYTFlMDkzNzI3ZDcxMmRhYjBmYzM1ZmIwZTM4In19fQ==
+
+        enchantment:
+            enabled: true
+            file: "enchantment"
+            material: player skull
+            slot: 39
+            name: "&8● <#E61D6F>&lENCHANTMENTS &8| &f{shop_size} <#E61D6F>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the enchantment shop'
+            - '  <#EBEBEB>to buy the enchantment avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2RjOTg1YTdhNjhjNTc0ZjY4M2MwYjg1OTUyMWZlYjNmYzNkMmZmYTA1ZmEwOWRiMGJhZTQ0YjhhYzI5YjM4NSJ9fX0=
+
+        potion:
+            enabled: true
+            file: "potion"
+            material: player skull
+            slot: 41
+            name: "&8● <#702963>&lPOTIONS &8| &f{shop_size} <#702963>Items"
+            lore:
+            - <#6A6A6A>Interactive Item
+            - ''
+            - '  <#EBEBEB>Open the potion shop'
+            - '  <#EBEBEB>to buy the potion avilable'
+            - ''
+            - "&eClick to browse category!"
+            NBT: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDkyYjI3ODI0MTgyZjliODFjN2NmNDYzZWM3Y2QxMGIwNWUwNjQwZDM4YjU2Yzg4NzMxOTZmMTkxNjhmNjNhZCJ9fX0=

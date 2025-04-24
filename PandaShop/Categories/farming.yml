@@ -1,0 +1,118 @@
+Shops:
+  farming:
+    '1':
+      material: BAMBOO
+      purchase: 0.1
+      sell: 0.03
+    '2':
+      material: BEE_NEST
+      purchase: -1
+      sell: 10
+    '3':
+      material: BEEHIVE
+      purchase: 16.87
+      sell: 4.22
+    '4':
+      material: BEETROOT
+      purchase: 6
+      sell: 1.5
+    '5':
+      material: BEETROOT_SEEDS
+      purchase: 3
+      sell: 0.75
+    '6':
+      material: BROWN_MUSHROOM
+      purchase: 2
+      sell: 0.5
+    '7':
+      material: CACTUS
+      purchase: 0.1
+      sell: 0.03
+    '8':
+      material: CARROT
+      purchase: 5
+      sell: 1.25
+    '9':
+      material: CHORUS_FLOWER
+      purchase: 1
+      sell: 0.25
+    '10':
+      material: CHORUS_FRUIT
+      purchase: 3
+      sell: 0.75
+    '11':
+      material: COCOA_BEANS
+      purchase: 6
+      sell: 1.5
+    '12':
+      material: CRIMSON_FUNGUS
+      purchase: 6
+      sell: 1.5
+    '13':
+      material: EGG
+      purchase: 5
+      sell: 1.25
+    '14':
+      material: KELP
+      purchase: 0.1
+      sell: 0.03
+    '15':
+      material: LEATHER
+      purchase: 33.6
+      sell: 8.4
+    '16':
+      material: MELON
+      purchase: 9.45
+      sell: 2.37
+    '17':
+      material: MELON_SEEDS
+      purchase: 3
+      sell: 0.75
+    '18':
+      material: MELON_SLICE
+      purchase: 1
+      sell: 0.25
+    '19':
+      material: NETHER_WART
+      purchase: 3
+      sell: 0.75
+    '20':
+      material: PITCHER_POD
+      purchase: 20.5
+      sell: 5.13
+    '21':
+      material: POTATO
+      purchase: 5
+      sell: 1.25
+    '22':
+      material: PUMPKIN
+      purchase: 5
+      sell: 1.25
+    '23':
+      material: PUMPKIN_SEEDS
+      purchase: 1.19
+      sell: 0.3
+    '24':
+      material: RED_MUSHROOM
+      purchase: 2
+      sell: 0.5
+    '25':
+      material: SUGAR_CANE
+      purchase: 0.1
+      sell: 0.03
+    '26':
+      material: TORCHFLOWER_SEEDS
+      purchase: 20.5
+      sell: 5.13
+    '27':
+      material: WARPED_FUNGUS
+      purchase: 6
+      sell: 1.5
+    '28':
+      material: WHEAT
+      purchase: 5
+      sell: 1.25
+    '29':
+      material: WHEAT_SEEDS
+      purchase: 3
+      sell: 0.75

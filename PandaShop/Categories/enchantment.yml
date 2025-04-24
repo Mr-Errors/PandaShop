@@ -1,0 +1,254 @@
+Shops:
+  enchantment:
+    '1':
+      material: ENCHANTED_BOOK
+      purchase: 160
+      sell: 40
+      enchantments:
+        - AQUA_AFFINITY:1
+    '2':
+      material: ENCHANTED_BOOK
+      purchase: 1944.81
+      sell: 486.21
+      enchantments:
+        - BANE_OF_ARTHROPODS:5
+    '3':
+      material: ENCHANTED_BOOK
+      purchase: 200
+      sell: 50
+      enchantments:
+        - BINDING_CURSE:1
+    '4':
+      material: ENCHANTED_BOOK
+      purchase: 1852.2
+      sell: 463.05
+      enchantments:
+        - BREACH:4
+    '5':
+      material: ENCHANTED_BOOK
+      purchase: 1481.76
+      sell: 370.44
+      enchantments:
+        - BLAST_PROTECTION:4
+    '6':
+      material: ENCHANTED_BOOK
+      purchase: 200
+      sell: 50
+      enchantments:
+        - CHANNELING:1
+    '7':
+      material: ENCHANTED_BOOK
+      purchase: 3889.62
+      sell: 972.41
+      enchantments:
+        - DENSITY:5
+    '8':
+      material: ENCHANTED_BOOK
+      purchase: 705.6
+      sell: 176.4
+      enchantments:
+        - DEPTH_STRIDER:3
+    '9':
+      material: ENCHANTED_BOOK
+      purchase: 972.41
+      sell: 243.11
+      enchantments:
+        - EFFICIENCY:5
+    '10':
+      material: ENCHANTED_BOOK
+      purchase: 926.1
+      sell: 231.53
+      enchantments:
+        - FEATHER_FALLING:4
+    '11':
+      material: ENCHANTED_BOOK
+      purchase: 336
+      sell: 84
+      enchantments:
+        - FIRE_ASPECT:2
+    '12':
+      material: ENCHANTED_BOOK
+      purchase: 926.1
+      sell: 231.53
+      enchantments:
+        - FIRE_PROTECTION:4
+    '13':
+      material: ENCHANTED_BOOK
+      purchase: 160
+      sell: 40
+      enchantments:
+        - FLAME:1
+    '14':
+      material: ENCHANTED_BOOK
+      purchase: 705.6
+      sell: 176.4
+      enchantments:
+        - FORTUNE:3
+    '15':
+      material: ENCHANTED_BOOK
+      purchase: 336
+      sell: 84
+      enchantments:
+        - FROST_WALKER:2
+    '16':
+      material: ENCHANTED_BOOK
+      purchase: 3111.7
+      sell: 777.93
+      enchantments:
+        - IMPALING:5
+    '17':
+      material: ENCHANTED_BOOK
+      purchase: 200
+      sell: 50
+      enchantments:
+        - INFINITY:1
+    '18':
+      material: ENCHANTED_BOOK
+      purchase: 210
+      sell: 52.5
+      enchantments:
+        - KNOCKBACK:2
+    '19':
+      material: ENCHANTED_BOOK
+      purchase: 705.6
+      sell: 176.4
+      enchantments:
+        - LOOTING:3
+    '20':
+      material: ENCHANTED_BOOK
+      purchase: 441
+      sell: 110.25
+      enchantments:
+        - LOYALTY:3
+    '21':
+      material: ENCHANTED_BOOK
+      purchase: 705.6
+      sell: 176.4
+      enchantments:
+        - LUCK_OF_THE_SEA:3
+    '22':
+      material: ENCHANTED_BOOK
+      purchase: 705.6
+      sell: 176.4
+      enchantments:
+        - LURE:3
+    '23':
+      material: ENCHANTED_BOOK
+      purchase: 160
+      sell: 40
+      enchantments:
+        - MENDING:1
+    '24':
+      material: ENCHANTED_BOOK
+      purchase: 160
+      sell: 40
+      enchantments:
+        - MULTISHOT:1
+    '25':
+      material: ENCHANTED_BOOK
+      purchase: 463.05
+      sell: 115.77
+      enchantments:
+        - PIERCING:4
+    '26':
+      material: ENCHANTED_BOOK
+      purchase: 972.41
+      sell: 243.11
+      enchantments:
+        - POWER:5
+    '27':
+      material: ENCHANTED_BOOK
+      purchase: 926.1
+      sell: 231.53
+      enchantments:
+        - PROJECTILE_PROTECTION:4
+    '28':
+      material: ENCHANTED_BOOK
+      purchase: 463.05
+      sell: 115.77
+      enchantments:
+        - PROTECTION:4
+    '29':
+      material: ENCHANTED_BOOK
+      purchase: 336
+      sell: 84
+      enchantments:
+        - PUNCH:2
+    '30':
+      material: ENCHANTED_BOOK
+      purchase: 441
+      sell: 110.25
+      enchantments:
+        - QUICK_CHARGE:3
+    '31':
+      material: ENCHANTED_BOOK
+      purchase: 705.6
+      sell: 176.4
+      enchantments:
+        - RESPIRATION:3
+    '32':
+      material: ENCHANTED_BOOK
+      purchase: 705.6
+      sell: 176.4
+      enchantments:
+        - RIPTIDE:3
+    '33':
+      material: ENCHANTED_BOOK
+      purchase: 972.41
+      sell: 243.11
+      enchantments:
+        - SHARPNESS:5
+    '34':
+      material: ENCHANTED_BOOK
+      purchase: 200
+      sell: 50
+      enchantments:
+        - SILK_TOUCH:1
+    '35':
+      material: ENCHANTED_BOOK
+      purchase: 1944.81
+      sell: 486.21
+      enchantments:
+        - SMITE:5
+    '36':
+      material: ENCHANTED_BOOK
+      purchase: 1102.5
+      sell: 275.63
+      enchantments:
+        - SOUL_SPEED:3
+    '37':
+      material: ENCHANTED_BOOK
+      purchase: 705.6
+      sell: 176.4
+      enchantments:
+        - SWEEPING_EDGE:3
+    '38':
+      material: ENCHANTED_BOOK
+      purchase: 275.63
+      sell: 68.91
+      enchantments:
+        - SWIFT_SNEAK:3
+    '39':
+      material: ENCHANTED_BOOK
+      purchase: 882
+      sell: 220.5
+      enchantments:
+        - THORNS:3
+    '40':
+      material: ENCHANTED_BOOK
+      purchase: 441
+      sell: 110.25
+      enchantments:
+        - UNBREAKING:3
+    '41':
+      material: ENCHANTED_BOOK
+      purchase: 200
+      sell: 50
+      enchantments:
+        - CURSE_OF_VANISHING:1
+    '42':
+      material: ENCHANTED_BOOK
+      purchase: 24255
+      sell: 6063.75
+      enchantments:
+        - WIND_BURST:3

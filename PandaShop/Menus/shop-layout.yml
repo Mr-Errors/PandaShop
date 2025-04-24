@@ -1,0 +1,67 @@
+Shop-Layout:
+    Title: "&8{category} &8| &8Page {page}"
+    Exit-Slot: 49
+    Rows: 6
+    Buyable-Slots:
+    - 'numbers between 12 and 16'
+    - 'numbers between 21 and 25'
+    - 'numbers between 30 and 34'
+    - 'numbers between 39 and 43'
+    Filler:
+        1:
+            material: Black Stained Glass Pane
+            fill: false
+            slots:
+            - 'integers between 0 and 9'
+            - 'integers between 44 and 54'
+            - 11
+            - 17
+            - 18
+            - 19
+            - 20
+            - 26
+            - 27
+            - 29
+            - 35
+            - 36
+            - 38
+    Buttons:
+        Main-Menu:
+            material: Spruce Door
+            slot: 37
+            name: "&7● &bMain Menu"
+            lore:
+            - ""
+            - "&7Click here if you would like to"
+            - "&7go back to the main menu."
+            - ""
+        Previous:
+            material: TIPPED_ARROW
+            potionType: healing
+            slot: 37
+            name: "&7● &bPrevious"
+            lore:
+            - ""
+            - "&7Click here if you would like to"
+            - "&7go back to the previous page"
+            - ""
+        Next:
+            material: Arrow
+            slot: 28
+            name: "&7● &bNext"
+            lore:
+            - ""
+            - "&7Click here if you would like to"
+            - "&7go to the next page"
+            - ""
+        Max-Page:
+            material: barrier
+            slot: 28
+            name: "&7● &cMax Page"
+            lore:
+            - ""
+            - "&7You have reached the limit"
+            - "&7of pages."
+            - ""
+
+      

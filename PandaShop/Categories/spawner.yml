@@ -1,0 +1,197 @@
+Shops:
+  spawner:
+    '1':
+      material: SPAWNER
+      spawnertype: ALLAY
+      purchase: 225000
+      sell: -1
+    '2':
+      material: SPAWNER
+      spawnertype: AXOLOTL
+      purchase: 150000
+      sell: -1
+    '3':
+      material: SPAWNER
+      spawnertype: BAT
+      purchase: 10000
+      sell: -1
+    '4':
+      material: SPAWNER
+      spawnertype: BLAZE
+      purchase: 125000
+      sell: -1
+    '5':
+      material: SPAWNER
+      spawnertype: BOGGED
+      purchase: 100000
+      sell: -1
+    '6':
+      material: SPAWNER
+      spawnertype: BREEZE
+      purchase: 100000
+      sell: -1
+    '7':
+      material: SPAWNER
+      spawnertype: CAMEL
+      purchase: 50000
+      sell: -1
+    '8':
+      material: SPAWNER
+      spawnertype: CAT
+      purchase: 25000
+      sell: -1
+    '9':
+      material: SPAWNER
+      spawnertype: CAVE_SPIDER
+      purchase: 50000
+      sell: -1
+    '10':
+      material: SPAWNER
+      spawnertype: CHICKEN
+      purchase: 15000
+      sell: -1
+    '11':
+      material: SPAWNER
+      spawnertype: COD
+      purchase: 10000
+      sell: -1
+    '12':
+      material: SPAWNER
+      spawnertype: COW
+      purchase: 100000
+      sell: -1
+    '13':
+      material: SPAWNER
+      spawnertype: CREEPER
+      purchase: 150000
+      sell: -1
+    '14':
+      material: SPAWNER
+      spawnertype: ENDERMAN
+      purchase: 175000
+      sell: -1
+    '15':
+      material: SPAWNER
+      spawnertype: FROG
+      purchase: 395000
+      sell: -1
+    '16':
+      material: SPAWNER
+      spawnertype: GLOW_SQUID
+      purchase: 100000
+      sell: -1
+    '17':
+      material: SPAWNER
+      spawnertype: GOAT
+      purchase: 120000
+      sell: -1
+    '18':
+      material: SPAWNER
+      spawnertype: HORSE
+      purchase: 65000
+      sell: -1
+    '19':
+      material: SPAWNER
+      spawnertype: HUSK
+      purchase: 125000
+      sell: -1
+    '20':
+      material: SPAWNER
+      spawnertype: IRON_GOLEM
+      purchase: 1000000
+      sell: -1
+    '21':
+      material: SPAWNER
+      spawnertype: MAGMA_CUBE
+      purchase: 500000
+      sell: -1
+    '22':
+      material: SPAWNER
+      spawnertype: MOOSHROOM
+      purchase: 125000
+      sell: -1
+    '23':
+      material: SPAWNER
+      spawnertype: PANDA
+      purchase: 50000
+      sell: -1
+    '24':
+      material: SPAWNER
+      spawnertype: PARROT
+      purchase: 30000
+      sell: -1
+    '25':
+      material: SPAWNER
+      spawnertype: PHANTOM
+      purchase: 250000
+      sell: -1
+    '26':
+      material: SPAWNER
+      spawnertype: PIGLIN_BRUTE
+      purchase: 2000000
+      sell: -1
+    '27':
+      material: SPAWNER
+      spawnertype: RABBIT
+      purchase: 45000
+      sell: -1
+    '28':
+      material: SPAWNER
+      spawnertype: SHEEP
+      purchase: 45000
+      sell: -1
+    '29':
+      material: SPAWNER
+      spawnertype: SHULKER
+      purchase: 500000
+      sell: -1
+    '30':
+      material: SPAWNER
+      spawnertype: SKELETON
+      purchase: 125000
+      sell: -1
+    '31':
+      material: SPAWNER
+      spawnertype: SLIME
+      purchase: 550000
+      sell: -1
+    '32':
+      material: SPAWNER
+      spawnertype: SNIFFER
+      purchase: 45000
+      sell: -1
+    '33':
+      material: SPAWNER
+      spawnertype: SPIDER
+      purchase: 45000
+      sell: -1
+    '34':
+      material: SPAWNER
+      spawnertype: SQUID
+      purchase: 100000
+      sell: -1
+    '35':
+      material: SPAWNER
+      spawnertype: STRIDER
+      purchase: 45000
+      sell: -1
+    '36':
+      material: SPAWNER
+      spawnertype: WITCH
+      purchase: 500000
+      sell: -1
+    '37':
+      material: SPAWNER
+      spawnertype: WOLF
+      purchase: 250000
+      sell: -1
+    '38':
+      material: SPAWNER
+      spawnertype: ZOMBIE
+      purchase: 120000
+      sell: -1
+    '39':
+      material: SPAWNER
+      spawnertype: ZOMBIFIED_PIGLIN
+      purchase: 120000
+      sell: -1
